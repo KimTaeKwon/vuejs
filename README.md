@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vuejs
-=======
 # vuejs
 
 ## Project setup
@@ -25,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 92095e6 (push vue)
