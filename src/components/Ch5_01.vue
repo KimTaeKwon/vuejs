@@ -48,7 +48,7 @@ export default {
         }
     },
     methods: {
-        changeHand() {
+        changeHand() { // 중복 사용시 methods에 함수로
             interval = setInterval(() => {
                 if(this.imgCode === rspCodes.바위) {
                     this.imgCode = rspCodes.가위;
