@@ -6,6 +6,8 @@ import Ch1_05View from '@/components/Ch1_05'
 import Ch2_01View from '@/components/Ch2_01'
 import Ch3_01View from '@/components/Ch3_01'
 import Ch4_01View from '@/components/Ch4_01'
+import Ch5_01View from '@/components/Ch5_01'
+import Ch6_01View from '@/components/Ch6_01'
 
 const routes = [
     {
@@ -42,6 +44,16 @@ const routes = [
         path: '/ch4_01',
         name: 'Ch4_01View',
         component: Ch4_01View,
+    },
+    {
+        path: '/ch5_01',
+        name: 'Ch5_01View',
+        component: Ch5_01View,
+    },
+    {
+        path: '/ch6_01',
+        name: 'Ch6_01View',
+        component: Ch6_01View,
     },
 ]
 
